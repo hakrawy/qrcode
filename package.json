@@ -1,0 +1,21 @@
+{
+    "name": "Alpha-X-WA-Bot-MD-QR-GEN",
+    "version": "2.1",
+    "description": "Alpha-X project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+    "main": "main.js",
+    "scripts": {
+        "start": "start index.js"
+    },
+    "dependencies": {
+        "@adiwajshing/baileys": "5.0.0",
+        "@adiwajshing/keyed-db": "^0.2.4",
+        "axios": "^0.24.0",
+        "chalk": "^4.1.2",
+        "child_process": "^1.0.2",
+        "fs": "0.0.1-security",
+        "os": "^0.1.2",
+        "pino": "^7.0.5",
+        "megajs": "^1.1.0",
+        "qrcode-terminal": "^0.12.0"
+    }
+}
